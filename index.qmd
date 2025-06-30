@@ -1,0 +1,12 @@
+---
+title: "My first page1"
+format: html
+---
+
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(infert)
+```
